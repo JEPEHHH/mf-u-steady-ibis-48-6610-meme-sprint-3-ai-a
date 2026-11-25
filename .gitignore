@@ -1,0 +1,6 @@
+# Python bytecode caches: never part of the entry, never in the snapshot.
+__pycache__/
+*.py[cod]
+
+# Local render scratch, if anything is ever pointed here.
+out/
