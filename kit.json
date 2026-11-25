@@ -1,0 +1,53 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6",
+  "phase": "dev",
+  "bundle_sha256": "1f3199da65ee7f836998857a33a5ebe2ef6d6c7b8a3aae6c60ea379c5b9f6b67",
+  "dataset_sha256": null,
+  "harness_version": "harness@9cb66b225f317f7481901c3cd4453d775c81a3a27ade9624f412dd6a3ba07cd3 node v26.13.1",
+  "scorer_version": "scorer@a1a1fe4a32baa68482a8b6d378a1fd07858c80683590cf6de1a41dcb4ad22c52 program@cdad40172bc7561d79a73199caac3e49543709217e3852c95bdb9aa077b72503",
+  "pricing_rev": "34d1007cd9dd19a1d751a8b87e79e95c181a94b3e791b1a546de6dac11435dbe",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "0b44d59d0e9d100b249d3df03b7faac176ba29cbc1b159547ebaaf2234219ef3",
+      "size": 73775
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "c587a274b200930a78c1081b82673a3bf31a4b7eebcce2fe5f604ad1e0f6c142",
+      "size": 17870049
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "b4c621262920ef47b8d918f52a5b62ae9773b6c7571ff52aabdda8e847b3357a",
+      "size": 27583
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "55b839d918ccf98cf04b8d1ef6f4e8134a27367dfbcf56a95f4d23551e6cacd3",
+      "size": 20967
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "29698b891d08ff9d69e53ae6d647ae67b88cbef1d7875db3847e546922c616b8",
+      "size": 20967
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "231307eea3b8ab4d732343816410c89105d6c42e93f05de8c25c987cffcd8f4b",
+      "size": 3174889
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "e460b78c227cbc30124f63c7994662c3b28e5ce89c370effb81d8d78e696959a",
+      "size": 85
+    }
+  ]
+}
